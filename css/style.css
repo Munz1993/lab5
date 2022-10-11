@@ -54,15 +54,13 @@
 }
 	
 .row_design{
-
-	text-align:center;
-	
-}
-
-.table_common{
   font-family: sans-serif arial;
 	font-size: 1.5em;
 	color: #FFFFFF;
+}
+
+.table_common{
+	text-align:center;
 	margin: 50px 0;
   padding: 50px 5px; 
 }
