@@ -45,6 +45,7 @@
   width: 90%;
 	color: white;
 	margin:0;
+	text-align:center;
 	position: relative;	
 }
 #planets tr:hover{
@@ -52,7 +53,7 @@
 	font-size:1.5em;
 }
 	
-#row_design{
+.row_design{
 
 	text-align:center;
 	
