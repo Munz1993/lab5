@@ -24,9 +24,9 @@
 }
 .embold{
 	color:#F2EEEE;
-	font-weight:bolder;
-	font-family:<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">;
-	/*font-size:4em;*/
+	font-weight:bold;
+	font-family:dancing script;
+	font-size:1.2em;
 }
 .table_top{
 	font-size:2em;
