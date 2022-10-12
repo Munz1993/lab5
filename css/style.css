@@ -55,12 +55,12 @@
 	
 .row_design{
   font-family: sans-serif arial;
-	font-size: 1.5em;
 	color: #FFFFFF;
 }
 
 .table_common{
 	text-align:center;
+	font-size: 1.5em;
 	margin: 50px 0;
   padding: 50px 5px; 
 }
